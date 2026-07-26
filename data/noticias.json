@@ -1,32 +1,62 @@
 [
   {
     "id": 1,
-    "categoria": "Bastidores & SAF",
+    "categoria": "Últimas",
     "categoria_slug": "bastidores",
-    "titulo": "Botafogo intensifica preparativos e planejamento no Nilton Santos",
-    "data": "26 de Julho de 2026",
+    "titulo": "Botafogo usa cabeça, vence no Mineirão e quebra invencibilidade do Cruzeiro",
+    "data": "26/07/2026",
     "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&q=80",
-    "resumo": "Confira os detalhes da rotina de treinos e o planejamento tático da comissão técnica.",
-    "conteudo": "<p>O Botafogo realizou mais uma importante sessão de treinos no Estádio Nilton Santos. A comissão técnica enfatizou exercícios de movimentação tática, transições rápidas e bolas paradas.</p><p>A expectativa da diretoria e do corpo técnico é manter o ritmo forte nas próximas rodadas, aproveitando o bom momento do elenco e a recuperação dos atletas que estavam no departamento médico.</p>"
+    "resumo": "Botafogo usa cabeça, vence no Mineirão e quebra invencibilidade do Cruzeiro  UOL\nVeja gol em Cruzeiro x Botafogo: Justino abre o placar  LANCE!\nFranclim brinca com reencontro entre Artur Jorge e Botafogo: \"Era importante eu sair sorrindo\"  ge",
+    "conteudo": "<p>Botafogo usa cabeça, vence no Mineirão e quebra invencibilidade do Cruzeiro  UOL\nVeja gol em Cruzeiro x Botafogo: Justino abre o placar  LANCE!\nFranclim brinca com reencontro entre Artur Jorge e Botafogo: \"Era importante eu sair sorrindo\"  ge</p><p style=\"margin-top: 1.5rem;\"><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQM3loeS1WcDFqZE5jWko2Z1h1M1ZTY3h1WEFaUEpLQjNmUzNpOTlDUmZKdDhXU29FQ3ZkV3J1RHF5ZUFnSW1VZHJfLXI4U21QTG9BbkxGUGFwc0lQNzAwUHZCNkRJaF90VHVQTGtHLXNWajBlb1U4VmVUc01CV1dNQUVzUk93dUVvci1CTW5lMm5STEIyZEM4ZkZFQU90aTFmREluaUhB?oc=5\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"font-weight: bold; color: var(--accent-black);\">→ Clique aqui para ler a matéria completa na fonte original</a></p>"
   },
   {
     "id": 2,
-    "categoria": "Mercado da Bola",
-    "categoria_slug": "mercado",
-    "titulo": "Análise das movimentações do Glorioso na janela de transferências",
-    "data": "25 de Julho de 2026",
-    "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=600&q=80",
-    "resumo": "Saiba quais posições recebem atenção prioritária do departamento de futebol.",
-    "conteudo": "<p>Com o mercado de transferências aquecido, a gestão do futebol do Botafogo trabalha ativamente na busca de reforços pontuais.</p><p>O foco principal está na contratação de jogadores jovens, com alto potencial físico e perfil adequado ao estilo de jogo agressivo que a equipe busca consolidar no cenário nacional e internacional.</p>"
+    "categoria": "Últimas",
+    "categoria_slug": "bastidores",
+    "titulo": "Botafogo anuncia contratação de Danilo Pereira, do Rangers, por empréstimo",
+    "data": "25/07/2026",
+    "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&q=80",
+    "resumo": "Botafogo anuncia contratação de Danilo Pereira, do Rangers, por empréstimo  O GLOBO",
+    "conteudo": "<p>Botafogo anuncia contratação de Danilo Pereira, do Rangers, por empréstimo  O GLOBO</p><p style=\"margin-top: 1.5rem;\"><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS1djc0VCNnVNdUc4bkllUF9tS1BBcU5kaG54NUkwNnNvell1V0pTSVJQYmUyRHlHRzM1OUZXRlQ5WTVERk5DUmdlTWZhT1EtNjBCX1g1MFBIWTNRWlhfSzJITWlSQTFXeDNWZ2ZHYjljU1JJM1RZMGlNejFpLUdSb0c0ME00Y2k2ZTlqZ1BqcW5iWjV1YnZ6LWtLNXZDckd2ME9Ec0pFSG5jZFYwcWd1UVo5TkxMWXpQb0NaS2VhUlhMYTdQUm9nc2Y5LW40REphZkc00gHiAUFVX3lxTFBhYjkzTk1YYVBRUWRhbHRGRVlRS2JGRkZPQXdhbGt4bVlNalZtUGJFM2VQUEpPQjFLOXAyQWpkQ1NycHJMeVNTZEFWR09hNkJmOThYdXhramFBT0xTM1hOaVVkaWRybzVxS2ltRWFyU05SMWhJdkpWYlFMMkpid2Y0ZS1ULVBQeGR4NXVTYmdfSmFfVVZEZGRSa1RsTlo2WU8zdnQwTWp5MzZNbmlsX1lIeUo3X2ZMQ1VPbF9GOXZEMjdjNXJrM2JZejhOSGRUd1hYYm8zT2Myc2s1MWQzcXVEaEE?oc=5\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"font-weight: bold; color: var(--accent-black);\">→ Clique aqui para ler a matéria completa na fonte original</a></p>"
   },
   {
     "id": 3,
-    "categoria": "Jogos & Análises",
-    "categoria_slug": "jogos",
-    "titulo": "Análise Tática: As variações ofensivas do Botafogo na temporada",
-    "data": "24 de Julho de 2026",
-    "imagem": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?auto=format&fit=crop&w=600&q=80",
-    "resumo": "Estudo detalhado mostra a ocupação de espaços e o volume de jogo no setor de ataque.",
-    "conteudo": "<p>Um estudo das métricas recentes da equipe revela um aumento significativo no volume de finalizações por partida. A ocupação das pontas e a chegada dos meio-campistas à área adversária têm sido diferenciais chave.</p><p>Essa flexibilidade no desenho tático dificulta a marcação dos adversários e consolida o Botafogo como um dos ataques mais imprevisíveis da competição.</p>"
+    "categoria": "Últimas",
+    "categoria_slug": "bastidores",
+    "titulo": "Botafogo oficializa contratação de Danilo Pereira para o ataque",
+    "data": "25/07/2026",
+    "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&q=80",
+    "resumo": "Botafogo oficializa contratação de Danilo Pereira para o ataque  Terra",
+    "conteudo": "<p>Botafogo oficializa contratação de Danilo Pereira para o ataque  Terra</p><p style=\"margin-top: 1.5rem;\"><a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRW9TSlEtYkFFcUhMV2xqcjZUVWcwZWhBVHQwLTJjbTZFYWlIc2VnV1BzYmQ1YnhWeEtTc3dsQWYzYy16VlhsSnZ2ak5qM2lNNnItUGdPTG16M3FBZlJQVmxmMnE3VnFTU1FqVEhNOUdQMTYzeEcxc0lOT1dNaGRGVkNITVVkVkZQYzA3Wk8ySkJ1Ul9ZMnJoT29yQUc1Y0FUVnRDdVRKLTV0Sk5YWHBDZ3pFR3dXaDhheGpJelBlenpFdU1RQVV4Vk1nXzJKenROVFgzZlZqRWQ4WUJRc0RyeG9kWFZJUXM?oc=5\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"font-weight: bold; color: var(--accent-black);\">→ Clique aqui para ler a matéria completa na fonte original</a></p>"
+  },
+  {
+    "id": 4,
+    "categoria": "Últimas",
+    "categoria_slug": "bastidores",
+    "titulo": "Botafogo anuncia Danilo Pereira como sexto reforço da janela",
+    "data": "25/07/2026",
+    "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&q=80",
+    "resumo": "Botafogo anuncia Danilo Pereira como sexto reforço da janela  LANCE!",
+    "conteudo": "<p>Botafogo anuncia Danilo Pereira como sexto reforço da janela  LANCE!</p><p style=\"margin-top: 1.5rem;\"><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFV4dE5LQm85ck51TUtzeEpycWVST3BHZlJaR0pVenRTVWNWNkJpbGpfRnhaNW13WUVVMWN6eFV3Z0lGcFB2R2N2Rkkya2U2ZEFyLXVCWGU4VmxGUEpUR2o3aThpZlJhallsaDA1VlpMM0gtaUR3WU9HNjNrT3N6TTJqQWdGVENiZmk0VWdhZHZDb05RYzZCdHl6QWRHTzFi?oc=5\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"font-weight: bold; color: var(--accent-black);\">→ Clique aqui para ler a matéria completa na fonte original</a></p>"
+  },
+  {
+    "id": 5,
+    "categoria": "Últimas",
+    "categoria_slug": "bastidores",
+    "titulo": "Botafogo tem acerto com Luiz Henrique, mas negócio esbarra em impasse inusitado; entenda",
+    "data": "26/07/2026",
+    "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&q=80",
+    "resumo": "Botafogo tem acerto com Luiz Henrique, mas negócio esbarra em impasse inusitado; entenda  Terra",
+    "conteudo": "<p>Botafogo tem acerto com Luiz Henrique, mas negócio esbarra em impasse inusitado; entenda  Terra</p><p style=\"margin-top: 1.5rem;\"><a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQNV9mbmFEU1hXbllKQUVFenlZWDJXenhPR2tacmJ6Q0hXZElFdkJSZWpCSlBjNy1tcllJOTVrN2VBN1AxQnc5NTh0Qk1tbWR4NFZ3VTB2YWRjemt6cGUwbkV6Y1gzOGh0bW90dlBjVk1rWFBvelZiVlBCTWdoQjNVSkU5enlnWDZZUmVKdVlnSW1jSks1ejJWSTlmemNhRUNHWW5fbUc4YUJGekIzOTZobWQ0aUIzUjhBd1MwempfNVY1U01OOUtsVEtsOTRPcUhBanNtRUd0c1VVMEVTQUFsUlZ3ZmI5bklESkQ3TmlUUENmYTAxNnBQWVBkRVI2SE9OWTJjcENB?oc=5\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"font-weight: bold; color: var(--accent-black);\">→ Clique aqui para ler a matéria completa na fonte original</a></p>"
+  },
+  {
+    "id": 6,
+    "categoria": "Últimas",
+    "categoria_slug": "bastidores",
+    "titulo": "Davide Ancelotti explica saída do comando técnico do Botafogo: 'Não havia mais presidente'",
+    "data": "25/07/2026",
+    "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&q=80",
+    "resumo": "Davide Ancelotti explica saída do comando técnico do Botafogo: 'Não havia mais presidente'  Terra",
+    "conteudo": "<p>Davide Ancelotti explica saída do comando técnico do Botafogo: 'Não havia mais presidente'  Terra</p><p style=\"margin-top: 1.5rem;\"><a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQUEFjOElCTWVpWHpXY0ZVMUtPNXlzbEtGbFR1OEROcmh2MDY5a2tkZlRDODlOR3ZWZ01pd3gyd09KdjhaQll0OEhoNEJWbU4yOGhKcU1IVy15Ni1OaXZJMjNHWGR6TndLZzNPVmFrTVBoZVM3VXdDUVNYb3ZjLWNzVzlhRE5KcDNyYXp0NjJmcWtlRFVRUHBXT1d3RzZqNDh4TW1lUlRQM1lQUHF6MnQ3eUZ1Qmdsb002SzRnV0Z5SkV5TEpURHJuOXUycEItSkc2eTNzV2dReER5cGxLTGhLYXZMY0k2VDFsWGZDbS1DQzk0cWxoVmppZjliTmp6emMxQlpHYUc0Yw?oc=5\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"font-weight: bold; color: var(--accent-black);\">→ Clique aqui para ler a matéria completa na fonte original</a></p>"
   }
 ]
