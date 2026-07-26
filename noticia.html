@@ -13,15 +13,12 @@
     <div class="nav-container">
       <div class="logo">
         <a href="index.html">
-          <img src="img/logo.png" alt="Sobre Botafogo" class="logo-img">
+          Sobre Botafogo
         </a>
       </div>
       <nav>
         <ul>
-          <li><a href="index.html">Todas</a></li>
-          <li><a href="index.html?cat=mercado">Mercado da Bola</a></li>
-          <li><a href="index.html?cat=jogos">Jogos & Análises</a></li>
-          <li><a href="index.html?cat=bastidores">Bastidores & SAF</a></li>
+          <li><a href="index.html">Notícias</a></li>
           <li><a href="historia.html">Nossa História</a></li>
         </ul>
       </nav>
@@ -42,7 +39,6 @@
     document.addEventListener('DOMContentLoaded', () => {
       const urlParams = new URLSearchParams(window.location.search);
       const articleId = parseInt(urlParams.get('id'));
-
       const articleDetail = document.getElementById('article-detail');
 
       fetch('data/noticias.json')
@@ -54,7 +50,7 @@
             document.title = `${noticia.titulo} | Sobre Botafogo`;
 
             articleDetail.innerHTML = `
-              <span class="card-tag">${noticia.categoria}</span>
+              <span class="card-tag">${noticia.categoria || 'Notícias'}</span>
               <h1 style="font-size: 2.2rem; margin: 0.8rem 0; line-height: 1.2;">${noticia.titulo}</h1>
               <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.5rem;">${noticia.data}</p>
               
@@ -64,12 +60,12 @@
                 ${noticia.conteudo}
               </div>
 
-              <div style="margin-top: 3rem; border-top: 1px solid var(--accent-border); padding-top: 1.5rem;">
-                <a href="index.html" style="color: var(--text-primary); font-weight: bold; text-decoration: none;">← Voltar para a página inicial</a>
+              <div style="margin-top: 3rem; border-top: 1px solid var(--accent-border, #333); padding-top: 1.5rem;">
+                <a href="index.html" style="color: var(--text-primary, #fff); font-weight: bold; text-decoration: none;">← Voltar para a página inicial</a>
               </div>
             `;
           } else {
-            articleDetail.innerHTML = '<h2>Notícia não encontrada.</h2><a href="index.html">Voltar para a Home</a>';
+            articleDetail.innerHTML = '<h2>Notícia não encontrada.</h2><br><a href="index.html">Voltar para a Home</a>';
           }
         })
         .catch(error => {

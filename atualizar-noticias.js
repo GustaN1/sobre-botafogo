@@ -32,7 +32,6 @@ async function extrairMateriaCompleta(url) {
     // 2. Extrai os parágrafos reais do artigo
     let paragrafos = [];
     
-    // Seletores comuns de grandes portais (ge.globo, fogaonet, lance)
     $('article p, .mc-article-body p, .content-text__container, .entry-content p, main p').each((_, el) => {
       const texto = $(el).text().trim();
       
@@ -61,7 +60,6 @@ async function buscarNoticias() {
   console.log("🔄 Buscando matérias completas e imagens reais...");
 
   try {
-    // Usando o feed direto do ge.globo (Botafogo) para garantir qualidade e links diretos
     const feed = await parser.parseURL('https://ge.globo.com/rss/ge/futebol/times/botafogo/');
     const itens = feed.items.slice(0, 6);
     const noticiasAtualizadas = [];
@@ -77,13 +75,13 @@ async function buscarNoticias() {
                           (item.mediaContent && item.mediaContent.$.url) || 
                           "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=800&q=80";
 
-      // Tratamento de Conteúdo Fallback (Garante que nunca fique só 1 linha)
+      // Tratamento de Conteúdo Fallback
       const conteudoFinal = conteudoHTML || `<p style="margin-bottom: 1.2rem; line-height: 1.6;">${item.contentSnippet || item.content || item.title}</p>`;
 
       noticiasAtualizadas.push({
         id: i + 1,
-        categoria: "Últimas",
-        categoria_slug: "bastidores",
+        categoria: "Notícias",
+        categoria_slug: "noticias",
         titulo: item.title,
         data: new Date(item.pubDate).toLocaleDateString('pt-BR'),
         imagem: imagemFinal,

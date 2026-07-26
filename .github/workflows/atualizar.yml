@@ -4,7 +4,7 @@ on:
   schedule:
     # Roda a cada 2 horas (Formato Cron)
     - cron: '0 */2 * * *'
-  workflow_dispatch: # Permite que você force a atualização manual pelo GitHub se quiser
+  workflow_dispatch: # Permite forçar atualização manual pelo GitHub Actions
 
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
           node-version: '18'
 
       - name: Instalar dependências
-        run: npm install rss-parser
+        run: npm install rss-parser axios cheerio
 
       - name: Executar script de coleta de notícias
         run: node atualizar-noticias.js
