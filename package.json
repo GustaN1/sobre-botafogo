@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/GustaN1/sobre-botafogo#readme",
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "axios": "^1.18.1",
     "cheerio": "^1.2.0",
     "rss-parser": "^3.13.0"
